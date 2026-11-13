@@ -27,4 +27,4 @@ jobs:
         with:
           context: ./app
           push: true
-          tags: ghcr.io/${{ github.repository }}/flask-app:latest
+          tags: ghcr.io/clondonoga/flask-app:latest
